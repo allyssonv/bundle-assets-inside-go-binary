@@ -1,0 +1,13 @@
+.container {
+	background-color: #348A9D;
+	width: 50%;
+	height: 50%;
+
+}
+
+.text {
+	font-family: Monaco;
+	color: white;
+	font-size: 3em;
+	text-align: center;
+}
